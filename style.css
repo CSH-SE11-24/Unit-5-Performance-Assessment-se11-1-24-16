@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  font-family: "Playfair Display", serif;
+  background-color: hotpink;
+}
+
+nav {
+  font-family: "Playfair Display", serif;
+  color: white;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+p {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+img{
+  height: 80%;
+  width: 120%;
+}
+
+div{
+  font-family: "Playfair Display", serif;
+}
